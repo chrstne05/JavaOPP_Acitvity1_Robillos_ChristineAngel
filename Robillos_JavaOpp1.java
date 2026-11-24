@@ -46,7 +46,7 @@ public class Robillos_JavaOpp1 {
         System.out.println("Mia adds 4 credits: " + mia.addCredits(4));
 
         // Final account balances
-        System.out.println("\nFinal Account Balances");
+        System.out.println("Final Account Balances");
         System.out.println("Mia: " + mia.getCredits());
         System.out.println("Luis: " + luis.getCredits());
     }
